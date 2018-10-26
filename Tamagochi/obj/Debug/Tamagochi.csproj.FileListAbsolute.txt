@@ -1,0 +1,6 @@
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/obj/Debug/Tamagochi.csprojAssemblyReference.cache
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/obj/Debug/Tamagochi.csproj.CoreCompileInputs.cache
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/bin/Debug/Tamagochi.dll
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/bin/Debug/Tamagochi.pdb
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/obj/Debug/Tamagochi.dll
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/obj/Debug/Tamagochi.pdb

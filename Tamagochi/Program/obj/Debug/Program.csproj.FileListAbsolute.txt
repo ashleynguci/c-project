@@ -1,0 +1,9 @@
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/obj/Debug/Program.csprojAssemblyReference.cache
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/obj/Debug/Program.csproj.CoreCompileInputs.cache
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/bin/Debug/Program.exe
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/bin/Debug/Program.pdb
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/bin/Debug/Tamagochi.dll
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/bin/Debug/Tamagochi.pdb
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/obj/Debug/Program.csproj.CopyComplete
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/obj/Debug/Program.exe
+/Users/mac365.vn/Documents/Kaikki/OOP/Tamagochi/Program/obj/Debug/Program.pdb
