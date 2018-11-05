@@ -1,0 +1,14 @@
+﻿<Window x:Class="VirtualPets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VirtualPets"
+        mc:Ignorable="d"
+        Title="Virtual Pets" Height="100" Width="640" Closing="Window_Closing">
+    <Grid>
+        <Button Content="Show Tamagotchis" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="120"  Margin="101,27,311,0" Click="Tamagotchit_Button_Click"/>
+        <Button Content="Show Dogs" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="120"  Margin="303,27,109,0" Click="Dogs_Button_Click"/>
+
+    </Grid>
+</Window>
