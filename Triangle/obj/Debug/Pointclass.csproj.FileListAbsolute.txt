@@ -1,0 +1,6 @@
+/Users/mac365.vn/Desktop/Pointclass/bin/Debug/Pointclass.dll
+/Users/mac365.vn/Desktop/Pointclass/bin/Debug/Pointclass.pdb
+/Users/mac365.vn/Desktop/Pointclass/obj/Debug/Pointclass.csprojAssemblyReference.cache
+/Users/mac365.vn/Desktop/Pointclass/obj/Debug/Pointclass.csproj.CoreCompileInputs.cache
+/Users/mac365.vn/Desktop/Pointclass/obj/Debug/Pointclass.dll
+/Users/mac365.vn/Desktop/Pointclass/obj/Debug/Pointclass.pdb
